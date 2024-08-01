@@ -1,5 +1,6 @@
 my_string=input("Столица России: ")
 print(my_string)
+print(len(my_string))
 print('Cтолица России: '.upper())
 print("Столица России: ".lower())
 print(my_string[0])
